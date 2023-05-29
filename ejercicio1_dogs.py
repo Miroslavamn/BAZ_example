@@ -1,4 +1,4 @@
-# Diccionario
+# Diccionario prueba
 # 1. Crear un diccionario donde cuentes las veces que aparece cada nombre en 'dogs'
 # 2. Imprime la cantidad de prerros que se llaman 'Rocky' y 'Sparky'
 # 3. Imprime la lista con los diferentes nombres de perros
